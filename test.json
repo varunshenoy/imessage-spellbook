@@ -1,0 +1,9 @@
+{
+    "input": {
+        "latest_chat_message": "Can I get a chicken burrito?",
+        "order": {
+            "delivery_address": "",
+            "food_items": []
+        }
+    }
+}
